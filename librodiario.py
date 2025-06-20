@@ -1,5 +1,3 @@
-# librodiario.py
-
 from datetime import datetime
 from typing import List, Dict
 import logging
@@ -18,7 +16,7 @@ class MontoInvalidoError(Exception):
 class LibroDiario:
     """Gestión contable básica de ingresos y egresos con manejo de errores."""
 
-    def _init_(self):
+    def __init__(self):
         self.transacciones: List[Dict] = []
 
     def agregar_transaccion(self, fecha: str, descripcion: str, monto: float, tipo: str) -> None:
@@ -82,4 +80,4 @@ class LibroDiario:
                 archivo.write(f"Egresos: {resumen['egresos']:.2f}\n")
             logging.info("Resumen exportado correctamente.")
         except Exception as e:
-            logging.error(f"Error al exportar resumen: {e}")
+            logging.error(f"Error al exportar resumen: {e}")

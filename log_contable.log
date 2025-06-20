@@ -1,0 +1,36 @@
+2025-06-20 13:14:18,824 - INFO - Transacción registrada: Venta producto X - 150.0 (ingreso)
+2025-06-20 13:14:18,825 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:14:18,825 - INFO - Transacción registrada: Venta accesorio Y - 300.0 (ingreso)
+2025-06-20 13:14:18,825 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:14:18,825 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:14:18,825 - INFO - Resumen exportado correctamente.
+2025-06-20 13:15:28,247 - ERROR - Error al procesar línea: 18-06-2025;Venta teclado gamer;120.00;ingreso | time data '18-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:15:28,247 - ERROR - Error al procesar línea: 18-06-2025;Compra de papel;0.00;egreso | time data '18-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:15:28,247 - ERROR - Error al procesar línea: 18-06-2025;Pago alquiler;-500.00;egreso | time data '18-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:15:28,247 - ERROR - Error al procesar línea: 19-06-2025;Venta producto X;abc;ingreso | time data '19-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:15:28,247 - ERROR - Error al procesar línea: 20-06-2025;Donación recibida;300.00;ingreso | time data '20-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:15:28,248 - INFO - Resumen exportado correctamente.
+2025-06-20 13:16:17,641 - ERROR - Error al procesar línea: 18-06-2025;Venta teclado gamer;120.00;ingreso | time data '18-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:16:17,641 - ERROR - Error al procesar línea: 18-06-2025;Compra de papel;110.00;egreso | time data '18-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:16:17,641 - ERROR - Error al procesar línea: 18-06-2025;Pago alquiler;500.00;egreso | time data '18-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:16:17,641 - ERROR - Error al procesar línea: 19-06-2025;Venta producto X;120.00;ingreso | time data '19-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:16:17,641 - ERROR - Error al procesar línea: 20-06-2025;Donación recibida;300.00;ingreso | time data '20-06-2025' does not match format '%Y-%m-%d'
+2025-06-20 13:16:17,642 - INFO - Resumen exportado correctamente.
+2025-06-20 13:17:34,513 - INFO - Transacción registrada: Venta teclado gamer - 150.0 (ingreso)
+2025-06-20 13:17:34,513 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:17:34,513 - INFO - Transacción registrada: Pago alquiler - 300.0 (ingreso)
+2025-06-20 13:17:34,513 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:17:34,513 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:17:34,514 - INFO - Resumen exportado correctamente.
+2025-06-20 13:19:26,757 - INFO - Transacción registrada: Venta teclado gamer - 250.0 (ingreso)
+2025-06-20 13:19:26,757 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:19:26,758 - INFO - Transacción registrada: Pago alquiler - 350.0 (ingreso)
+2025-06-20 13:19:26,758 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:19:26,758 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:19:26,758 - INFO - Resumen exportado correctamente.
+2025-06-20 13:19:34,875 - INFO - Transacción registrada: Venta teclado gamer - 250.0 (ingreso)
+2025-06-20 13:19:34,875 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:19:34,875 - INFO - Transacción registrada: Pago alquiler - 350.0 (ingreso)
+2025-06-20 13:19:34,875 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:19:34,875 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-20 13:19:34,876 - INFO - Resumen exportado correctamente.
